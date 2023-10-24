@@ -2,7 +2,7 @@
 <manifest>
   <remote fetch="https://android.googlesource.com/" name="aosp" review="https://android.googlesource.com/"/>
   <remote fetch="https://github.com/khadas/" name="github" />
-  <remote fetch="https://github.com/FlatFrogApps/" name="flatfrog" />
+  <remote fetch="ssh://git@github.com/FlatFrogApps/" name="flatfrog" />
   <default remote="github" revision="khadas-vim4-r-64bit" sync-c="true" sync-j="4"/>
 
   <project name="android_vendor_amlogic_common_aml_npu_common" path="vendor/amlogic/common/aml_npu_common" revision="8dcb0036336cb8729d9c1ac60cc6911019e660ac"  />
