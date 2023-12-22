@@ -6,7 +6,7 @@
   <remote fetch="ssh://git@fg-git.flatfrog.local/opt/git/" name="fg-git" />
   <default remote="github" revision="khadas-vim4-r-64bit" sync-c="true" sync-j="4"/>
 
-  <project remote="fg-git" name="medusa" path="ffbuild" revision="640f73be75e40aa2b22397c3945f3be83ee729af"  />
+  <project remote="fg-git" name="medusa" path="ffbuild" revision="557842aa8ef03d3fce4b9ec703280364e49829b7"  />
   <project remote="flatfrog" name="USBMiddleMan" path="system/extras/USBMiddleMan" revision="refs/tags/usbmm-v0009"  />
   <project remote="flatfrog" name="android_packages_apps_FlatfrogBoard" path="packages/apps/FlatfrogBoard" revision="07767c893b91395d11c7ab5ab3aa1d4688841da8"   />
   <project name="android_vendor_amlogic_common_aml_npu_common" path="vendor/amlogic/common/aml_npu_common" revision="8dcb0036336cb8729d9c1ac60cc6911019e660ac"  />
@@ -15,7 +15,7 @@
   <project name="android_vendor_amlogic_common_external_DTVKit_cas_hal" path="vendor/amlogic/common/external/DTVKit/cas_hal" revision="dc1268e9d9640897e14245309ebae44b5eea5612" />
   <project name="android_device_generic_art" path="device/generic/art" revision="e10e1c2ca6d471e654854cd07d320a4935ea529c"   />
   <project name="android_device_google_atv" path="device/google/atv" revision="203cb6c4542543341b39995efed577010e1e75b8"   />
-  <project remote="flatfrog" name="khadas-android_device_khadas" path="device/khadas" revision="a61abc5f13f60a8a6fce284513142afba8cd0c2b"  >
+  <project remote="flatfrog" name="khadas-android_device_khadas" path="device/khadas" revision="cf14077a27e8d3f867d70f4c96662bec590b91e9"  >
     <copyfile src="common/kernelbuild/mk" dest="mk"/>
   </project>
   <project name="android_device_khadas_kvim4-kernel" path="device/khadas/kvim4-kernel" revision="b38fadd84f58ab672ce441ed09495219e7da568e"  />
