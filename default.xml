@@ -2,7 +2,7 @@
 <manifest>
   <remote fetch="https://android.googlesource.com/" name="aosp" review="https://android.googlesource.com/"/>
   <remote fetch="https://github.com/khadas/" name="github" />
-  <remote fetch="ssh://git@github.com/FlatFrogApps/" name="flatfrog" />
+  <remote fetch="https://github.com/FlatFrogApps/" name="flatfrog" />
   <remote fetch="ssh://git@fg-git.flatfrog.local/opt/git/" name="fg-git" />
   <default remote="github" revision="khadas-vim4-r-64bit" sync-c="true" sync-j="4"/>
 
