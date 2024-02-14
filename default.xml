@@ -95,7 +95,7 @@
   <project name="android_external_cbor-java" path="external/cbor-java" revision="f81e576298790c97498311e99a0b0b34653c3dd8"   />
   <project name="android_external_chromium-libpac" path="external/chromium-libpac" revision="169c93e00a00605346a68d39d3f4713735bdb61e"   />
   <project name="android_external_chromium-trace" path="external/chromium-trace" revision="e524766cad26d677a9a1ec8c00c512d4cac2cf5e"   />
-  <project remote="aosp" name="platform/external/chromium-webview" path="external/chromium-webview" revision="6f160a4f5f1d4c5102ff7c581b950845552ca4a8" upstream="refs/tags/android14-dev" groups="pdk" clone-depth="1"/>
+  <project remote="aosp" name="platform/external/chromium-webview" path="external/chromium-webview" revision="56dfe27102e3aaa9137abdc1193c81c1752405df" upstream="refs/heads/android14-dev" groups="pdk" clone-depth="1"/>
   <project name="android_external_clang" path="external/clang" revision="0a1c53a5d295109bd4702ad13c0f2a5510ca1b26"   />
   <project name="android_external_cldr" path="external/cldr" revision="e200512efe65963be28bf86817219de3c9765b58"   />
   <project name="android_external_cn-cbor" path="external/cn-cbor" revision="696530332036f5518681d3c450cdbc3ee412004a"   />
