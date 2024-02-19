@@ -16,7 +16,7 @@
   <project name="android_vendor_amlogic_common_external_DTVKit_cas_hal" path="vendor/amlogic/common/external/DTVKit/cas_hal" revision="dc1268e9d9640897e14245309ebae44b5eea5612" />
   <project name="android_device_generic_art" path="device/generic/art" revision="e10e1c2ca6d471e654854cd07d320a4935ea529c"   />
   <project name="android_device_google_atv" path="device/google/atv" revision="203cb6c4542543341b39995efed577010e1e75b8"   />
-  <project remote="flatfrog" name="khadas-android_device_khadas" path="device/khadas" revision="dafdf07ecb5ccedb1bdbddc0e0a262bdad02ed56"  >
+  <project remote="flatfrog" name="khadas-android_device_khadas" path="device/khadas" revision="6866ea09a238b055b8c01bc542990ed61cfa5216"  >
     <copyfile src="common/kernelbuild/mk" dest="mk"/>
   </project>
   <project name="android_device_khadas_kvim4-kernel" path="device/khadas/kvim4-kernel" revision="b38fadd84f58ab672ce441ed09495219e7da568e"  />
