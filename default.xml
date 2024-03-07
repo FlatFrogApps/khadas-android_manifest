@@ -6,7 +6,7 @@
   <remote fetch="ssh://git@fg-git.flatfrog.local/opt/git/" name="fg-git" />
   <default remote="github" revision="khadas-vim4-r-64bit" sync-c="true" sync-j="4"/>
 
-  <project remote="fg-git" name="medusa" path="ffbuild" revision="6cce1f9e04ec3b3c7cbc8c93136587d14dec56b4"  />
+  <project remote="fg-git" name="medusa" path="ffbuild" revision="58a37ce410967d0bd388caabdb6e2e3933cbe1a8"  />
   <project remote="fg-git" name="fftools" path="ffbuild/fftools" revision="50645fad792b42268ecf8cd173598e8dc58c87eb"  />
   <project remote="flatfrog" name="USBMiddleMan" path="system/extras/USBMiddleMan" revision="refs/tags/usbmm-v0023"  />
   <project remote="flatfrog" name="android_packages_apps_FlatfrogBoard" path="packages/apps/FlatfrogBoard" revision="ece1734623222a865744ea538ba260b67b63aded"   />
@@ -796,7 +796,7 @@
   <project name="android_toolchain_benchmark" path="toolchain/benchmark" revision="1fba1825631e6e52dff5b3ceb87a5b439e2acf52"  />
   <project name="android_toolchain_pgo-profiles" path="toolchain/pgo-profiles" revision="df7cd88e8839bdf864700fc7d302b678a604b943"   />
   <project name="android_tools_platform-compat" path="tools/platform-compat" revision="b553fea7dd2aa8dcc26f4d8f91effd86e55dd72e"   />
-  <project name="u-boot" path="bootloader/uboot" revision="b7c7c16312485571b3e20b2b8802b1ed60a0a934"   >
+  <project remote="flatfrog" name="khadas-u-boot" path="bootloader/uboot" revision="2de5336ab9d0a4a41e21babedb0f843e5d21c533"   >
     <copyfile src="fip/mk" dest="bootloader/uboot/mk"/>
   </project>
   <project name="android_vendor_amlogic_common_aml_mp_sdk" path="vendor/amlogic/common/aml_mp_sdk" revision="88920c5bb55323d116f9a91b7878eb61ba614f2c"  />
