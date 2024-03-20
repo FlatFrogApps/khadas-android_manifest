@@ -9,14 +9,14 @@
   <project remote="fg-git" name="medusa" path="ffbuild" revision="f285f80a3b255dc556b13e0bb2246468b198a269"  />
   <project remote="fg-git" name="fftools" path="ffbuild/fftools" revision="50645fad792b42268ecf8cd173598e8dc58c87eb"  />
   <project remote="flatfrog" name="USBMiddleMan" path="system/extras/USBMiddleMan" revision="refs/tags/usbmm-v0023"  />
-  <project remote="flatfrog" name="android_packages_apps_FlatfrogBoard" path="packages/apps/FlatfrogBoard" revision="ece1734623222a865744ea538ba260b67b63aded"   />
+  <project remote="flatfrog" name="android_packages_apps_FlatfrogBoard" path="packages/apps/FlatfrogBoard" revision="4d32890a75a44fe5ea8589e29941ade1bb88ee06"   />
   <project name="android_vendor_amlogic_common_aml_npu_common" path="vendor/amlogic/common/aml_npu_common" revision="8dcb0036336cb8729d9c1ac60cc6911019e660ac"  />
   <project name="android_vendor_amlogic_common_external_DTVKit_android-inputsource" path="vendor/amlogic/common/external/DTVKit/android-inputsource" revision="5614570a86bcf67d483cf358f8996e79dd83c112"  />
   <project name="android_vendor_amlogic_common_external_DTVKit_releaseDTVKit" path="vendor/amlogic/common/external/DTVKit/releaseDTVKit" revision="c385f7faa2126efe15c0db0020a212f82b36b9b0"  />
   <project name="android_vendor_amlogic_common_external_DTVKit_cas_hal" path="vendor/amlogic/common/external/DTVKit/cas_hal" revision="dc1268e9d9640897e14245309ebae44b5eea5612" />
   <project name="android_device_generic_art" path="device/generic/art" revision="e10e1c2ca6d471e654854cd07d320a4935ea529c"   />
   <project name="android_device_google_atv" path="device/google/atv" revision="203cb6c4542543341b39995efed577010e1e75b8"   />
-  <project remote="flatfrog" name="khadas-android_device_khadas" path="device/khadas" revision="838d34d6d0d3233f7e7f79a08d6513c28d9da657"  >
+  <project remote="flatfrog" name="khadas-android_device_khadas" path="device/khadas" revision="1781b5f87301077e65dd29b56f06a20aa2d864da"  >
     <copyfile src="common/kernelbuild/mk" dest="mk"/>
   </project>
   <project name="android_device_khadas_kvim4-kernel" path="device/khadas/kvim4-kernel" revision="b38fadd84f58ab672ce441ed09495219e7da568e"  />
