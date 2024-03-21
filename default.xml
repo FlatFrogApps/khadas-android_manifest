@@ -6,7 +6,7 @@
   <remote fetch="ssh://git@fg-git.flatfrog.local/opt/git/" name="fg-git" />
   <default remote="github" revision="khadas-vim4-r-64bit" sync-c="true" sync-j="4"/>
 
-  <project remote="fg-git" name="medusa" path="ffbuild" revision="a4e771cf869d274225e5553004abf2adf1bb2063"  />
+  <project remote="fg-git" name="medusa" path="ffbuild" revision="fd4cde4ca590bd79326815e92a439add3dd236a1"  />
   <project remote="fg-git" name="fftools" path="ffbuild/fftools" revision="8c82cc29c9a8284114f4158d22e114aaa438a5a1"  />
   <project remote="flatfrog" name="USBMiddleMan" path="system/extras/USBMiddleMan" revision="refs/tags/usbmm-v0023"  />
   <project remote="flatfrog" name="android_packages_apps_FlatfrogBoard" path="packages/apps/FlatfrogBoard" revision="4d32890a75a44fe5ea8589e29941ade1bb88ee06"   />
