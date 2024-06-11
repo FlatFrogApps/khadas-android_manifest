@@ -16,14 +16,14 @@
   <project name="android_vendor_amlogic_common_external_DTVKit_cas_hal" path="vendor/amlogic/common/external/DTVKit/cas_hal" revision="dc1268e9d9640897e14245309ebae44b5eea5612" />
   <project name="android_device_generic_art" path="device/generic/art" revision="e10e1c2ca6d471e654854cd07d320a4935ea529c"   />
   <project name="android_device_google_atv" path="device/google/atv" revision="203cb6c4542543341b39995efed577010e1e75b8"   />
-  <project remote="flatfrog" name="khadas-android_device_khadas" path="device/khadas" revision="1a7b0a9cb9101b430a8b86489e7bde0c9562ffb9"  >
+  <project remote="flatfrog" name="khadas-android_device_khadas" path="device/khadas" revision="dbf0af57f0928b83bdb8279e3c941698d48816da"  >
     <copyfile src="common/kernelbuild/mk" dest="mk"/>
   </project>
   <project name="android_device_khadas_kvim4-kernel" path="device/khadas/kvim4-kernel" revision="b38fadd84f58ab672ce441ed09495219e7da568e"  />
   <project name="android_device_mediatek_wembley-sepolicy" path="device/mediatek/wembley-sepolicy" revision="39fccbba164e873b4ccd9abab3585d8e0f64ccbe"   />
   <project name="android_device_sample" path="device/sample" revision="5c4f1d093d7771d6ac327e87e19698cec6bf3a34"   />
   <project name="android_vendor_amlogic_common_external_dvb" path="vendor/amlogic/common/external/dvb" revision="d06675d876945ba54743633fae48fb64488282ff"  />
-  <project remote="flatfrog" name="khadas-linux" path="common" revision="57fa87af0e6fb37f8d771d393d6ee686d8c8cac8"  />
+  <project remote="flatfrog" name="khadas-linux" path="common" revision="377cba335c868fb7b132613aad9ad6f4a008e0a1"  />
   <project name="android_kernel_configs" path="kernel/configs" revision="e4102999005f8f3c8db1fdacfba80a2c581a72f1"   />
   <project name="android_kernel_prebuilts_4.19_arm64" path="kernel/prebuilts/4.19/arm64" revision="332808127a212d39ef607a3241fe0ff1d48cd795"    />
   <project name="android_kernel_tests" path="kernel/tests" revision="0b69217c71fdb04e6e2dea74443ebe3e4391104a"   />
