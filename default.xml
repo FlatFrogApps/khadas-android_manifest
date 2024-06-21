@@ -430,7 +430,7 @@
   <project name="android_frameworks_minikin" path="frameworks/minikin" revision="7dbff203b2b14cf815fbac312299ec7a223d094f"   />
   <project name="android_frameworks_ml" path="frameworks/ml" revision="7541c8a3e958585308b82beff3eb8e5dde2c3432"   />
   <project name="android_frameworks_multidex" path="frameworks/multidex" revision="e60bb86cd116127913fe8f4872d7846852627ffb"   />
-  <project name="android_frameworks_native" path="frameworks/native" revision="04fcfbae54f057e58bf3db2af72c9e2d8ae32637"   />
+  <project remote="flatfrog" name="khadas-android_frameworks_native" path="frameworks/native" revision="04fcfbae54f057e58bf3db2af72c9e2d8ae32637"   />
   <project name="android_frameworks_opt_bitmap" path="frameworks/opt/bitmap" revision="e9850af1278e499e427d08dbf40244f3622bd6db"   />
   <project name="android_frameworks_opt_calendar" path="frameworks/opt/calendar" revision="6e29ad1dfe9b353af1c41a30101673bf01d7a144"   />
   <project name="android_frameworks_opt_car_services" path="frameworks/opt/car/services" revision="71f349738c840f813abe64a5da89e3ae34772848"   />
