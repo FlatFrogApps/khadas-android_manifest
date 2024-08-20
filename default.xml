@@ -406,7 +406,7 @@
   <project name="android_external_wayland-protocols" path="external/wayland-protocols" revision="0023658c1130d5bfe1b55ec9bb758c713a6216d4"   />
   <project name="android_external_webp" path="external/webp" revision="5b8ffe46a0fbf17592104c3a7d85a1074b868bcc"   />
   <project name="android_external_webrtc" path="external/webrtc" revision="661e84967bb2600427cb65715caeeba112b94244"   />
-  <project name="android_external_wpa_supplicant_8" path="external/wpa_supplicant_8" revision="625b097e45c844ad56d93e00d3d17454718e8b3e"   />
+  <project remote="flatfrog" name="android_external_wpa_supplicant_8" path="external/wpa_supplicant_8" revision="625b097e45c844ad56d93e00d3d17454718e8b3e"   />
   <project name="android_external_wycheproof" path="external/wycheproof" revision="1b808efc7c903b0eaae0da8f6788f55513e4e339"   />
   <project name="android_external_xmp_toolkit" path="external/xmp_toolkit" revision="44d7e4d00ef6da63a75bf3a4f9296872cc4d2ac1"   />
   <project name="android_external_xz-embedded" path="external/xz-embedded" revision="51923a98b0af813e3db6a027d64471ee8710a4f2"   />
