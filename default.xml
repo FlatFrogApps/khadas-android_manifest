@@ -8,7 +8,7 @@
 
   <project remote="fg-git" name="medusa" path="ffbuild" revision="d3d12567d36b0c620e232b1c650167b32907c556"  />
   <project remote="fg-git" name="fftools" path="ffbuild/fftools" revision="8c82cc29c9a8284114f4158d22e114aaa438a5a1"  />
-  <project remote="flatfrog" name="USBMiddleMan" path="system/extras/USBMiddleMan" revision="refs/tags/usbmm-v0034"  />
+  <project remote="flatfrog" name="USBMiddleMan" path="system/extras/USBMiddleMan" revision="refs/tags/usbmm-v0035"  />
   <project remote="flatfrog" name="android_packages_apps_FlatfrogBoard" path="packages/apps/FlatfrogBoard" revision="c4ae26624b4ae3ca4d12d0a74e3d014c03c44a61"   />
   <project name="android_vendor_amlogic_common_aml_npu_common" path="vendor/amlogic/common/aml_npu_common" revision="8dcb0036336cb8729d9c1ac60cc6911019e660ac"  />
   <project name="android_vendor_amlogic_common_external_DTVKit_android-inputsource" path="vendor/amlogic/common/external/DTVKit/android-inputsource" revision="5614570a86bcf67d483cf358f8996e79dd83c112"  />
