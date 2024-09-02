@@ -23,7 +23,7 @@
   <project name="android_device_mediatek_wembley-sepolicy" path="device/mediatek/wembley-sepolicy" revision="39fccbba164e873b4ccd9abab3585d8e0f64ccbe"   />
   <project name="android_device_sample" path="device/sample" revision="5c4f1d093d7771d6ac327e87e19698cec6bf3a34"   />
   <project name="android_vendor_amlogic_common_external_dvb" path="vendor/amlogic/common/external/dvb" revision="d06675d876945ba54743633fae48fb64488282ff"  />
-  <project remote="flatfrog" name="khadas-linux" path="common" revision="cfc2f6c429af72f21305c23061cd2cb00bff100e"  />
+  <project remote="flatfrog" name="khadas-linux" path="common" revision="a543c7c071615669f66f4e511fb6568e844d8922"  />
   <project remote="flatfrog" name="android_packages_apps_FFKeyboard" path="packages/inputmethods/FFKeyboard" revision="da9f8d7d71184cfeeff93f799f0cb232c4b6fd6b"  />
   <project name="android_kernel_configs" path="kernel/configs" revision="e4102999005f8f3c8db1fdacfba80a2c581a72f1"   />
   <project name="android_kernel_prebuilts_4.19_arm64" path="kernel/prebuilts/4.19/arm64" revision="332808127a212d39ef607a3241fe0ff1d48cd795"    />
