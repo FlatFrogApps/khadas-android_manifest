@@ -809,7 +809,7 @@
   <project name="android_vendor_amlogic_common_system_libgdc" path="vendor/amlogic/common/system/libgdc" revision="eb561263d4d5c0cc59c49a8ff97317350b0279ce"  />
   <project name="android_vendor_amlogic_common_tdk_v3" path="vendor/amlogic/common/tdk_v3" revision="8fc5ac86e6f5cc11f4b9eb2da76dd6fc9a287142"  />
   <project name="android_vendor_amlogic_common_tdk_linuxdriver" path="vendor/amlogic/common/tdk_linuxdriver" revision="25a093910b0c485a3af54ba7977c67e00171a069"  />
-  <project remote="flatfrog" name="khadas-android_vendor_amlogic_common_pre_submit_for_google" path="vendor/amlogic/common/pre_submit_for_google" revision="4d7da972e4493432510bcc2a91c041fd7fe66a6b"  />
+  <project remote="flatfrog" name="khadas-android_vendor_amlogic_common_pre_submit_for_google" path="vendor/amlogic/common/pre_submit_for_google" revision="87837d6aa9285d84a3ed1e7538a7e34989bc730f"  />
   <project name="android_vendor_amlogic_common_external_freetype" path="vendor/amlogic/common/external/freetype" revision="2add0984e4ff4c649f848677dac646f7cb791def"  />
   <project name="android_vendor_widevine" path="vendor/widevine" revision="2171e55d0b286d4c0747f2ffd0c779359ead3c1a"  />
   
