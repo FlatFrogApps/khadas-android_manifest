@@ -713,7 +713,7 @@
   <project name="android_system_chre" path="system/chre" revision="872b6a3aaf2dc12eb51496c402c2d523da1d5848"   />
   <project name="android_system_connectivity_wificond" path="system/connectivity/wificond" revision="57a054befc2a837ec8d1f63e2df6d51a9a3afd15"   />
   <project name="android_system_connectivity_wifilogd" path="system/connectivity/wifilogd" revision="d96bd96c699461682699628ba6bf604bf36f011a"   />
-  <project name="android_system_core" path="system/core" revision="bd3b7e8cedfd358375202a16557b4dbb3c6c4e37"   />
+  <project remote="flatfrog" name="khadas-android_system_core" path="system/core" revision="71dea1f1e453e90ac7021da01929c13b10b65a2a"   />
   <project name="android_system_extras" path="system/extras" revision="cea2c635bc235f631015242ae09f8390a2f06f29"   />
   <project name="android_system_gatekeeper" path="system/gatekeeper" revision="dd73a85fb461d6b6732fed1096ebd7b3e4619691"   />
   <project name="android_system_gsid" path="system/gsid" revision="353bd5faa73121b77d7ca80ec3d71e0119898222"   />
