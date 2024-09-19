@@ -455,7 +455,7 @@
   <project name="android_hardware_amlogic_aucpu_fw" path="hardware/amlogic/aucpu_fw" revision="540242bb2214f09cb3969ae8a1b365a3d6c74f57"  />
   <project name="android_hardware_amlogic_audio" path="hardware/amlogic/audio" revision="14b678197082d4d488b00405db04a09dcda03609"/>
   <project name="android_hardware_amlogic_gralloc" path="hardware/amlogic/gralloc" revision="83ee3db25d51f82fbd3085e21d27fabb637c083a"  />
-  <project name="android_hardware_amlogic_hwcomposer" path="hardware/amlogic/hwcomposer" revision="eb4944583a552592858ce220ac776a7e931e570f"  />
+  <project remote="flatfrog" name="khadas-android_hardware_amlogic_hwcomposer" path="hardware/amlogic/hwcomposer" revision="de1b3c597000f139ba4b88410b27df586230f91f"  />
   <project name="android_hardware_amlogic_cve_driver" path="vendor/amlogic/common/cve/driver" revision="84dd875dbe61403a6fbd011ba78a47960cdeabe7"/>
   <project name="android_hardware_amlogic_cve_lib" path="vendor/amlogic/common/cve/lib" revision="bfc32fd19f770a939e5d3c821b206e7e3f3591ad">
     <copyfile dest="vendor/amlogic/common/cve/Android.mk" src="Android.mk"/>
