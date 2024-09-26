@@ -441,7 +441,7 @@
   <project name="android_frameworks_opt_net_ethernet" path="frameworks/opt/net/ethernet" revision="e93e82198f66999355b0499b5e6811435ea36a51"   />
   <project name="android_frameworks_opt_net_ims" path="frameworks/opt/net/ims" revision="a0a24a7c38438d1e8649841e7a81c4af0a4054e1"   />
   <project name="android_frameworks_opt_net_voip" path="frameworks/opt/net/voip" revision="702a3e75d6c432a96db2481f5748953c9d69cc86"   />
-  <project remote="flatfrog" name="khadas-android_frameworks_opt_net_wifi" path="frameworks/opt/net/wifi" revision="b79ab2f29cd96ae19efec386be4f96a1fd0dc2e9"   />
+  <project remote="flatfrog" name="khadas-android_frameworks_opt_net_wifi" path="frameworks/opt/net/wifi" revision="a7510a9fb7d992ea5c867d3abf4601e4dbb69c4c"   />
   <project name="android_frameworks_opt_photoviewer" path="frameworks/opt/photoviewer" revision="e277c3e0a6ac479ab7089934464a4f01df90ed43"   />
   <project name="android_frameworks_opt_setupwizard" path="frameworks/opt/setupwizard" revision="8d2737e20a56addbf718aba9bc9bdc0c38e8c236"   />
   <project name="android_frameworks_opt_telephony" path="frameworks/opt/telephony" revision="670f20330dc81566073b65aea2f17c66d548062c"   />
