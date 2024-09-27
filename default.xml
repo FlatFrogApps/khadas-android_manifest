@@ -461,7 +461,7 @@
     <copyfile dest="vendor/amlogic/common/cve/Android.mk" src="Android.mk"/>
   </project>
   <project name="android_vendor_amlogic_common_libencoder" path="vendor/amlogic/common/libencoder" revision="2483b48c6571efee5291731c1c7d7061d22317ee"  />
-  <project name="android_hardware_amlogic_media_modules" path="hardware/amlogic/media_modules" revision="8fdd2ef9e6ccf8c71ec6e2b6b12831b23405aebf"  />
+  <project remote="flatfrog" name="khadas-android_hardware_amlogic_media_modules" path="hardware/amlogic/media_modules" revision="967c91ac506434289c558059457ef655ef06a90f"  />
   <project name="android_hardware_amlogic_tuner" path="hardware/amlogic/tuner" revision="9853b76cc8e1e260ae81bf3b27967ede67af1be7"  />
   <project name="android_vendor_amlogic_common_gpu" path="vendor/amlogic/common/gpu" revision="5a2cf6290e0719024e7e41c0914f127b5d9b1283"  />
   <project name="android_vendor_amlogic_common_arm_isp" path="vendor/amlogic/common/arm_isp" revision="9a93c8892f27197b590f8479118dca7899d3d59f"  />
