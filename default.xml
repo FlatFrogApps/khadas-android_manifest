@@ -518,7 +518,7 @@
   <project name="android_hardware_st_secure_element" path="hardware/st/secure_element" revision="57cb663656fc58d1898ed7fdffdf05ea0859ddac"   />
   <project name="android_hardware_ti_am57x" path="hardware/ti/am57x" revision="ecea4a76d9fd937f4e79f71332190da98229495c"   />
   <project name="android_vendor_wifi_driver_amlogic_w1_wifi" path="vendor/wifi_driver/amlogic/w1/wifi" revision="fc44e4eae18b1c913c837e8b3076448080dca199"  />
-  <project remote="flatfrog" name="khadas-android_vendor_wifi_driver_broadcom_ap6xxx" path="vendor/wifi_driver/broadcom/ap6xxx" revision="4a2fc8abb962073cffb56c66f022b88d0c882e69"  />
+  <project remote="flatfrog" name="khadas-android_vendor_wifi_driver_broadcom_ap6xxx" path="vendor/wifi_driver/broadcom/ap6xxx" revision="5512071baec10fca1a86c4fa032769e5ea1fe9ee"  />
   <project name="android_vendor_wifi_driver_marvell_sd8987" path="vendor/wifi_driver/marvell/sd8987" revision="0b3ffdfa11a3e02b5521589bf8862e848b01f70f"  />
   <project name="android_vendor_wifi_driver_mtk_drivers_mt7661" path="vendor/wifi_driver/mtk/drivers/mt7661" revision="039e5a47a13ddaf276f67d55565e645d87f1d8d3"  />
   <project name="android_vendor_wifi_driver_mtk_drivers_mt7668u" path="vendor/wifi_driver/mtk/drivers/mt7668u" revision="b86cd05fb966f037926f720f25efeadd665cebba"  />
