@@ -416,7 +416,7 @@
   <project name="android_external_zopfli" path="external/zopfli" revision="4e42ccafb7c571f502a23177bca2d3cfc209035c"   />
   <project name="android_external_zxing" path="external/zxing" revision="65193280855e46d11bf5b44f1a7e49ec0c7bd57e"   />
   <project remote="flatfrog" name="khadas-android_frameworks_av" path="frameworks/av" revision="f0ca7ed2111045575c5e191b37929f82eeeb250f"   />
-  <project remote="flatfrog" name="khadas-android_frameworks_base" path="frameworks/base" revision="9af37f6f56fc01d598fb6fca40fb394c3c542944"   />
+  <project remote="flatfrog" name="khadas-android_frameworks_base" path="frameworks/base" revision="2c3f704aeae858b7772eac207b12b47c4e386c3d"   />
   <project name="android_frameworks_compile_libbcc" path="frameworks/compile/libbcc" revision="fff6169b647b9c5d60350923019e8d60449a3652"   />
   <project name="android_frameworks_compile_mclinker" path="frameworks/compile/mclinker" revision="c7e43705055a74fd97f481fd31dddd8b9e307c4a"   />
   <project name="android_frameworks_compile_slang" path="frameworks/compile/slang" revision="122ad4e102004cbf3bdc2b6f62b0d41aaa293541"   />
@@ -792,7 +792,7 @@
   <project name="android_tools_tradefederation_contrib" path="tools/tradefederation/contrib" revision="0ff7007d58dd912f7d5dca4178a9731494b31222"   />
   <project name="android_tools_treble" path="tools/treble" revision="4a70b7b8a10119fe886bb009c634646a533f7db0"   />
   <project name="android_tools_trebuchet" path="tools/trebuchet" revision="b735f448e61c99f4c06101902ff76eee4e5496f1"   />
-  <project remote="flatfrog" name="khadas-android_vendor_amlogic_common" path="vendor/amlogic/common" revision="32618e9301801011e55638971ca3a54934809975"  />
+  <project remote="flatfrog" name="khadas-android_vendor_amlogic_common" path="vendor/amlogic/common" revision="570407eee25ad57fbda0f51299d72887351363ad"  />
   <project name="android_vendor_amlogic_kvim4" path="vendor/amlogic/kvim4" revision="bab57a1e83481db0f23293c355525aa0b6039aba"  />
   <project name="android_toolchain_benchmark" path="toolchain/benchmark" revision="1fba1825631e6e52dff5b3ceb87a5b439e2acf52"  />
   <project name="android_toolchain_pgo-profiles" path="toolchain/pgo-profiles" revision="df7cd88e8839bdf864700fc7d302b678a604b943"   />
@@ -809,7 +809,7 @@
   <project name="android_vendor_amlogic_common_system_libgdc" path="vendor/amlogic/common/system/libgdc" revision="eb561263d4d5c0cc59c49a8ff97317350b0279ce"  />
   <project name="android_vendor_amlogic_common_tdk_v3" path="vendor/amlogic/common/tdk_v3" revision="8fc5ac86e6f5cc11f4b9eb2da76dd6fc9a287142"  />
   <project name="android_vendor_amlogic_common_tdk_linuxdriver" path="vendor/amlogic/common/tdk_linuxdriver" revision="25a093910b0c485a3af54ba7977c67e00171a069"  />
-  <project remote="flatfrog" name="khadas-android_vendor_amlogic_common_pre_submit_for_google" path="vendor/amlogic/common/pre_submit_for_google" revision="1450ecf29b0074b762c1643945ff9cbe599c74bf"  />
+  <project remote="flatfrog" name="khadas-android_vendor_amlogic_common_pre_submit_for_google" path="vendor/amlogic/common/pre_submit_for_google" revision="f182588986a2e1c51c98c12d7656b3cc8b54e9b6"  />
   <project name="android_vendor_amlogic_common_external_freetype" path="vendor/amlogic/common/external/freetype" revision="2add0984e4ff4c649f848677dac646f7cb791def"  />
   <project name="android_vendor_widevine" path="vendor/widevine" revision="2171e55d0b286d4c0747f2ffd0c779359ead3c1a"  />
   
